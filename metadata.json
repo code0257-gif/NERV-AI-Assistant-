@@ -1,0 +1,7 @@
+{
+  "name": "NERV AI Assistant",
+  "description": "An advanced, Iron-Man inspired AI voice assistant (NERV) featuring real-time voice interaction, smart home controls, and a high-tech HUD interface powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
