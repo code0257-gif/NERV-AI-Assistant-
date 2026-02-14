@@ -3,7 +3,7 @@ import React from 'react';
 import { SmartHomeDevice } from './types';
 
 export const NERV_CONFIG = {
-  MODEL: 'gemini-2.5-flash-native-audio-preview-12-2025',
+  MODEL: 'llama3 (local via Ollama)',
   SYSTEM_INSTRUCTION: `You are NERV, an advanced AI system inspired by JARVIS.
   Your tone is sophisticated, efficient, and slightly witty.
   You manage a smart home, memory system, and computer resources.
